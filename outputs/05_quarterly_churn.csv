@@ -1,0 +1,15 @@
+quarter,customer_type,active_customers,churned_next_quarter,churn_rate_pct
+2010-Q1,new,1184,576,48.6
+2010-Q1,returning,599,121,20.2
+2010-Q2,new,816,498,61.0
+2010-Q2,returning,1224,363,29.7
+2010-Q3,new,587,319,54.3
+2010-Q3,returning,1464,432,29.5
+2010-Q4,new,777,617,79.4
+2010-Q4,returning,1888,925,49.0
+2011-Q1,new,376,225,59.8
+2011-Q1,returning,1398,509,36.4
+2011-Q2,new,325,186,57.2
+2011-Q2,returning,1663,594,35.7
+2011-Q3,new,396,195,49.2
+2011-Q3,returning,1759,606,34.5

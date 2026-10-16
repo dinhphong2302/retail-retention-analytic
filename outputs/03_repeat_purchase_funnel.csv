@@ -1,0 +1,6 @@
+step,stage,customers,pct_of_first_order,conversion_from_prev_pct
+1,1st order,4065,100.0,
+2,2nd order,2980,73.3,73.3
+3,3rd order,2278,56.0,76.4
+5,5th order,1404,34.5,61.6
+10,10th order,504,12.4,35.9

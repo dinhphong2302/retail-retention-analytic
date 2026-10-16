@@ -1,0 +1,6 @@
+bucket,customers,pct,cumulative_pct
+0-30 days,802,26.9,26.9
+31-60 days,569,19.1,46.0
+61-90 days,365,12.2,58.3
+91-180 days,639,21.4,79.7
+180+ days,605,20.3,100.0

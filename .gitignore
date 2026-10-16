@@ -1,0 +1,11 @@
+# Raw data (download from UCI) and the generated database (136 MB, over GitHub's file limit)
+data/raw/
+data/*.db
+
+# Java runtime, Metabase jar, Metabase app database and local admin credentials
+tools/*
+!tools/start-metabase.bat
+
+__pycache__/
+.ipynb_checkpoints/
+*.log
